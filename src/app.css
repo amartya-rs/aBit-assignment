@@ -148,7 +148,7 @@ body {
 .data {
    color: var(--white);
    border-radius: 1.5rem;
-   width: 13.5rem;
+   width: 13.75rem;
    padding: 0.625rem 0.5rem;
    background: rgba(255, 255, 255, 0.25);
    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
